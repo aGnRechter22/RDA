@@ -15,6 +15,8 @@ It only processes raw pressure data from RECON as of right now.
 
 What to expect from me?
 
+UPDATE: STUDY RELATED DELAYS ARE HAPPENING SO IT MIGHT TAKE A WHILE BEFORE I PUBLISH A REFINED CODE
+
 - Winds module will come somewhere in 2 weeks or so
 This contains:
  - Filtered SFMR (removed flags in Fourier transformed data) data
